@@ -54,7 +54,11 @@
         ]
       },
       "--tweakClass",
+<<<<<<< Updated upstream
       "optifine.OptiFineForgeTweaker",
+=======
+      "optifine.OptiFineTweaker",
+>>>>>>> Stashed changes
       "--launchTarget",
       "forgeclient",
       "--fml.forgeVersion",
@@ -1793,25 +1797,43 @@
     }
   ],
   "downloads": {
+<<<<<<< Updated upstream
     "server": {
       "url": "https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar",
       "sha1": "f69c284232d7c7580bd89a5a4931c3581eae1378",
       "size": 45609512
     },
+=======
+>>>>>>> Stashed changes
     "client": {
       "url": "https://piston-data.mojang.com/v1/objects/055b30d860ead928cba3849ba920c88b6950b654/client.jar",
       "sha1": "055b30d860ead928cba3849ba920c88b6950b654",
       "size": 21644740
     },
+<<<<<<< Updated upstream
+=======
+    "client_mappings": {
+      "url": "https://piston-data.mojang.com/v1/objects/8e8c9be5dc27802caba47053d4fdea328f7f89bd/client.txt",
+      "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+      "size": 7236064
+    },
+>>>>>>> Stashed changes
     "server_mappings": {
       "url": "https://piston-data.mojang.com/v1/objects/ed5e6e8334ad67f5af0150beed0f3d156d74bd57/server.txt",
       "sha1": "ed5e6e8334ad67f5af0150beed0f3d156d74bd57",
       "size": 5584686
     },
+<<<<<<< Updated upstream
     "client_mappings": {
       "url": "https://piston-data.mojang.com/v1/objects/8e8c9be5dc27802caba47053d4fdea328f7f89bd/client.txt",
       "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
       "size": 7236064
+=======
+    "server": {
+      "url": "https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar",
+      "sha1": "f69c284232d7c7580bd89a5a4931c3581eae1378",
+      "size": 45609512
+>>>>>>> Stashed changes
     }
   },
   "logging": {},
@@ -3287,25 +3309,43 @@
         }
       ],
       "downloads": {
+<<<<<<< Updated upstream
         "server": {
           "url": "https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar",
           "sha1": "f69c284232d7c7580bd89a5a4931c3581eae1378",
           "size": 45609512
         },
+=======
+>>>>>>> Stashed changes
         "client": {
           "url": "https://piston-data.mojang.com/v1/objects/055b30d860ead928cba3849ba920c88b6950b654/client.jar",
           "sha1": "055b30d860ead928cba3849ba920c88b6950b654",
           "size": 21644740
         },
+<<<<<<< Updated upstream
+=======
+        "client_mappings": {
+          "url": "https://piston-data.mojang.com/v1/objects/8e8c9be5dc27802caba47053d4fdea328f7f89bd/client.txt",
+          "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+          "size": 7236064
+        },
+>>>>>>> Stashed changes
         "server_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/ed5e6e8334ad67f5af0150beed0f3d156d74bd57/server.txt",
           "sha1": "ed5e6e8334ad67f5af0150beed0f3d156d74bd57",
           "size": 5584686
         },
+<<<<<<< Updated upstream
         "client_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/8e8c9be5dc27802caba47053d4fdea328f7f89bd/client.txt",
           "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
           "size": 7236064
+=======
+        "server": {
+          "url": "https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar",
+          "sha1": "f69c284232d7c7580bd89a5a4931c3581eae1378",
+          "size": 45609512
+>>>>>>> Stashed changes
         }
       },
       "logging": {
@@ -3674,7 +3714,11 @@
       "arguments": {
         "game": [
           "--tweakClass",
+<<<<<<< Updated upstream
           "optifine.OptiFineForgeTweaker"
+=======
+          "optifine.OptiFineTweaker"
+>>>>>>> Stashed changes
         ]
       },
       "mainClass": "net.minecraft.launchwrapper.Launch",
