@@ -1,0 +1,601 @@
+[205月2023 10:16:38.498] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, canyue, --version, 1.19.2, --gameDir, C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\versions\1.19.2, --assetsDir, C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\assets, --assetIndex, 1.19, --uuid, 0000000000003006998F555B1097512F, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.11, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, --tweakClass, optifine.OptiFineForgeTweaker]
+[205月2023 10:16:38.511] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.5 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[205月2023 10:16:38.655] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[205月2023 10:16:38.656] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/Administrator/source/repos/MCBB/MCBB/MBBT/libraries/optifine/OptiFine/1.19.2_HD_U_I1/OptiFine-1.19.2_HD_U_I1.jar%23154!/
+[205月2023 10:16:38.663] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\libraries\optifine\OptiFine\1.19.2_HD_U_I1\OptiFine-1.19.2_HD_U_I1.jar
+[205月2023 10:16:38.665] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[205月2023 10:16:38.718] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Administrator/source/repos/MCBB/MCBB/MBBT/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=CLIENT
+[205月2023 10:16:38.726] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[205月2023 10:16:38.867] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\versions\1.19.2\config\fml.toml is not correct. Correcting
+[205月2023 10:16:38.874] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[205月2023 10:16:39.168] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.11\fmlcore-1.19.2-43.2.11.jar is missing mods.toml file
+[205月2023 10:16:39.172] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.11\javafmllanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[205月2023 10:16:39.176] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.11\lowcodelanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[205月2023 10:16:39.180] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.11\mclanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[205月2023 10:16:39.271] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[205月2023 10:16:39.903] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[205月2023 10:16:39.909] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 386
+[205月2023 10:16:40.288] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[205月2023 10:16:40.530] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2, --gameDir, C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\versions\1.19.2, --assetsDir, C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\assets, --uuid, 0000000000003006998F555B1097512F, --username, canyue, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, Legacy, --versionType, PCL2, --width, 854, --height, 480, --tweakClass, optifine.OptiFineForgeTweaker]
+[205月2023 10:16:44.648] [pool-3-thread-1/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[205月2023 10:16:46.274] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Administrator/source/repos/MCBB/MCBB/MBBT/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[205月2023 10:16:46.275] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Administrator/source/repos/MCBB/MCBB/MBBT/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[205月2023 10:16:46.285] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[205月2023 10:16:47.783] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-3.11.49.jar%23131!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155) ~[authlib-3.11.49.jar%23131!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-3.11.49.jar%23131!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161) ~[authlib-3.11.49.jar%23131!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:646) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:405) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.11.jar%23103!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2390!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:58) [JavaWrapper.jar:?]
+	at oolloo.jlw.Wrapper.main(Wrapper.java:51) [JavaWrapper.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:87) ~[authlib-3.11.49.jar%23131!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-3.11.49.jar%23131!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-3.11.49.jar%23131!/:?]
+	... 25 more
+[205月2023 10:16:47.788] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: canyue
+[205月2023 10:16:47.878] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:16:47.880] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:16:47.880] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:16:47.881] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:16:48.167] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[205月2023 10:16:48.568] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] 
+[205月2023 10:16:48.569] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OptiFine_1.19.2_HD_U_I1
+[205月2023 10:16:48.571] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Build: 20221213-150857
+[205月2023 10:16:48.571] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[205月2023 10:16:48.572] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Java: 17.0.5, Eclipse Adoptium
+[205月2023 10:16:48.572] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+[205月2023 10:16:48.572] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[205月2023 10:16:48.578] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL: NVIDIA GeForce GTX 960/PCIe/SSE2, version 3.2.0 NVIDIA 531.79, NVIDIA Corporation
+[205月2023 10:16:48.581] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] OpenGL Version: 3.2.0
+[205月2023 10:16:48.620] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Maximum texture size: 16384x16384
+[205月2023 10:16:48.622] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] Checking for new version
+[205月2023 10:16:48.674] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] OpenGL Version: 3.2.0 NVIDIA 531.79
+[205月2023 10:16:48.674] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Vendor:  NVIDIA Corporation
+[205月2023 10:16:48.674] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Renderer: NVIDIA GeForce GTX 960/PCIe/SSE2
+[205月2023 10:16:48.675] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[205月2023 10:16:48.684] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[205月2023 10:16:48.684] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[205月2023 10:16:48.684] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[205月2023 10:16:48.685] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Load shaders configuration.
+[205月2023 10:16:48.687] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] Save shaders configuration.
+[205月2023 10:16:48.689] [Render thread/INFO] [net.optifine.shaders.SMCLog/]: [Shaders] No shaderpack loaded.
+[205月2023 10:16:48.703] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[205月2023 10:16:48.703] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[205月2023 10:16:48.849] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.11, for MC 1.19.2 with MCP 20220805.130853
+[205月2023 10:16:48.850] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.11 Initialized
+[205月2023 10:16:49.214] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[205月2023 10:16:49.214] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[205月2023 10:16:49.216] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[205月2023 10:16:49.216] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[205月2023 10:16:49.225] [VersionCheck/INFO] [net.optifine.Config/]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[205月2023 10:16:49.755] [Worker-Main-1/ERROR] [net.minecraft.client.multiplayer.ProfileKeyPairManager/]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[205月2023 10:16:49.796] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[205月2023 10:16:49.818] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading textures ***
+[205月2023 10:16:49.819] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Resource packs: Mod Resources
+[205月2023 10:16:49.823] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:49.825] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\versions\1.19.2\config\forge-client.toml is not correct. Correcting
+[205月2023 10:16:49.826] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[205月2023 10:16:49.827] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[205月2023 10:16:49.827] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[205月2023 10:16:49.827] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[205月2023 10:16:49.828] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[205月2023 10:16:49.828] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[205月2023 10:16:49.837] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Administrator\source\repos\MCBB\MCBB\MBBT\versions\1.19.2\config\forge-common.toml is not correct. Correcting
+[205月2023 10:16:49.838] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[205月2023 10:16:49.838] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
+[205月2023 10:16:49.838] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
+[205月2023 10:16:49.858] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
+[205月2023 10:16:50.006] [Worker-Main-7/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:16:50.006] [Worker-Main-8/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:16:50.007] [Worker-Main-9/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:16:50.056] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Forge ***
+[205月2023 10:16:50.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[205月2023 10:16:50.219] [Render thread/INFO] [net.optifine.reflect.Reflector/]: [OptiFine] *** Reflector Vanilla ***
+[205月2023 10:16:51.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 43.2.11 Target: null
+[205月2023 10:16:55.233] [Worker-Main-3/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:55.234] [Worker-Main-3/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:55.234] [Worker-Main-3/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:55.235] [Worker-Main-3/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:55.447] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:16:55.489] [Worker-Main-3/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:16:55.491] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[205月2023 10:16:55.511] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[205月2023 10:16:55.523] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[205月2023 10:16:55.524] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[205月2023 10:16:55.525] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[205月2023 10:16:55.526] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[205月2023 10:16:55.527] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[205月2023 10:16:55.528] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[205月2023 10:16:55.528] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[205月2023 10:16:55.529] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[205月2023 10:16:55.530] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[205月2023 10:16:55.531] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[205月2023 10:16:55.532] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[205月2023 10:16:55.532] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[205月2023 10:16:55.533] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[205月2023 10:16:55.534] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[205月2023 10:16:55.534] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[205月2023 10:16:55.535] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[205月2023 10:16:55.535] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[205月2023 10:16:55.536] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[205月2023 10:16:55.537] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[205月2023 10:16:55.537] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[205月2023 10:16:55.538] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[205月2023 10:16:55.538] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[205月2023 10:16:55.538] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[205月2023 10:16:55.539] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[205月2023 10:16:55.540] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[205月2023 10:16:55.540] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[205月2023 10:16:55.541] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[205月2023 10:16:55.541] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[205月2023 10:16:55.543] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[205月2023 10:16:55.544] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[205月2023 10:16:55.545] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[205月2023 10:16:55.546] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[205月2023 10:16:55.546] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[205月2023 10:16:55.547] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[205月2023 10:16:55.548] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[205月2023 10:16:55.548] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[205月2023 10:16:55.549] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[205月2023 10:16:55.550] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multipass connected textures: false
+[205月2023 10:16:55.553] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[205月2023 10:16:59.814] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 4
+[205月2023 10:17:00.525] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:00.547] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:00.547] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:00.551] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:00.552] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:00.807] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:00.911] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:00.912] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:00.922] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:00.923] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:00.933] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:01.015] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:01.016] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:01.026] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:01.026] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:01.036] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:01.057] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:01.057] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:01.061] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:01.061] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:01.065] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:01.099] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:01.099] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:01.104] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:01.104] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:01.109] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Multitexture: false
+[205月2023 10:17:01.144] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Sprite size: 64
+[205月2023 10:17:01.144] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Mipmap levels: 6
+[205月2023 10:17:01.150] [Worker-Main-3/INFO] [net.optifine.Config/]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[205月2023 10:17:01.150] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.TextureAtlasSprite/]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[205月2023 10:17:02.114] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:17:02.115] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:17:02.115] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:17:02.115] [Render thread/WARN] [net.minecraft.client.Options/]: Skipping bad option: 
+[205月2023 10:17:02.210] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[205月2023 10:17:02.210] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[205月2023 10:17:02.256] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (High Definition Audio Device)
+[205月2023 10:17:02.257] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[205月2023 10:17:02.383] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[205月2023 10:17:02.391] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 51
+[205月2023 10:17:02.392] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[205月2023 10:17:02.392] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:02.393] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[205月2023 10:17:02.393] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:02.394] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[205月2023 10:17:02.394] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:02.394] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[205月2023 10:17:02.395] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:02.395] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[205月2023 10:17:02.395] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:02.395] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[205月2023 10:17:02.396] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:03.227] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[205月2023 10:17:03.444] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[205月2023 10:17:03.445] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 1
+[205月2023 10:17:03.446] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[205月2023 10:17:03.446] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:03.446] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[205月2023 10:17:03.446] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Animated sprites: 0
+[205月2023 10:17:03.447] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] *** Reloading custom textures ***
+[205月2023 10:17:03.455] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:17:03.469] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:17:03.470] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:17:04.522] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:17:04.524] [Render thread/WARN] [net.optifine.Config/]: [OptiFine] Unknown resource pack file: mod_resources
+[205月2023 10:17:04.527] [Render thread/INFO] [net.optifine.Config/]: [OptiFine] Disable Forge light pipeline
+[205月2023 10:17:04.529] [Render thread/INFO] [net.optifine.Log/]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[205月2023 10:17:06.158] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[205月2023 10:18:01.722] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to cn-yw-plc-3.openfrp.top, 23044
+[205月2023 10:18:01.722] [Worker-Main-6/ERROR] [net.minecraft.client.multiplayer.ProfileKeyPairManager/]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23155!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[205月2023 10:18:02.362] [Netty Client IO #1/INFO] [net.minecraftforge.client.ForgeHooksClient/CLIENTHOOKS]: 客户端可能需要在服务端上的附属Mod: bookshelf@, apotheosis@6.1.5, placebo@7.1.8
+[205月2023 10:18:03.387] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	apotheosis:beeshelf: 944
+	apotheosis:blazing_hellshelf: 935
+	apotheosis:boss_spawner: 953
+	apotheosis:crystal_seashelf: 939
+	apotheosis:draconic_endshelf: 943
+	apotheosis:ender_library: 947
+	apotheosis:endshelf: 941
+	apotheosis:gem_cutting_table: 956
+	apotheosis:glowing_hellshelf: 936
+	apotheosis:heart_seashelf: 940
+	apotheosis:hellshelf: 933
+	apotheosis:infused_hellshelf: 934
+	apotheosis:infused_seashelf: 938
+	apotheosis:library: 946
+	apotheosis:melonshelf: 945
+	apotheosis:pearl_endshelf: 942
+	apotheosis:rectifier: 948
+	apotheosis:rectifier_t2: 949
+	apotheosis:rectifier_t3: 950
+	apotheosis:reforging_table: 954
+	apotheosis:salvaging_table: 955
+	apotheosis:seashelf: 937
+	apotheosis:sightshelf: 951
+	apotheosis:sightshelf_t2: 952
+
+[205月2023 10:18:03.388] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block_entity_type
+	apotheosis:anvil: 36
+	apotheosis:boss_spawner: 39
+	apotheosis:ender_library: 38
+	apotheosis:library: 37
+	apotheosis:reforging_table: 40
+
+[205月2023 10:18:03.388] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:command_argument_type
+	bookshelf:font: 50
+	bookshelf:item_output: 51
+
+[205月2023 10:18:03.388] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:enchantment
+	apotheosis:bane_of_illagers: 52
+	apotheosis:berserkers_fury: 47
+	apotheosis:capturing: 63
+	apotheosis:chainsaw: 61
+	apotheosis:chromatic: 57
+	apotheosis:crescendo: 54
+	apotheosis:earths_boon: 60
+	apotheosis:endless_quiver: 56
+	apotheosis:exploitation: 58
+	apotheosis:growth_serum: 59
+	apotheosis:icy_thorns: 43
+	apotheosis:infusion: 55
+	apotheosis:knowledge: 48
+	apotheosis:life_mending: 42
+	apotheosis:miners_fervor: 39
+	apotheosis:natures_blessing: 50
+	apotheosis:obliteration: 53
+	apotheosis:rebounding: 51
+	apotheosis:reflective: 46
+	apotheosis:scavenger: 41
+	apotheosis:shield_bash: 45
+	apotheosis:spearfishing: 62
+	apotheosis:splitting: 49
+	apotheosis:stable_footing: 40
+	apotheosis:tempting: 44
+
+[205月2023 10:18:03.389] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	apotheosis:broadhead_arrow: 119
+	apotheosis:explosive_arrow: 120
+	apotheosis:mining_arrow: 121
+	apotheosis:obsidian_arrow: 118
+
+[205月2023 10:18:03.389] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	apotheosis:beeshelf: 1174
+	apotheosis:blazing_hellshelf: 1165
+	apotheosis:boots_tome: 1157
+	apotheosis:boss_summoner: 1186
+	apotheosis:bow_tome: 1161
+	apotheosis:broadhead_arrow: 1205
+	apotheosis:chestplate_tome: 1155
+	apotheosis:common_material: 1190
+	apotheosis:crystal_seashelf: 1169
+	apotheosis:diamond_mining_arrow: 1208
+	apotheosis:draconic_endshelf: 1172
+	apotheosis:ender_lead: 1184
+	apotheosis:ender_library: 1183
+	apotheosis:endshelf: 1171
+	apotheosis:epic_material: 1193
+	apotheosis:explosive_arrow: 1206
+	apotheosis:fishing_tome: 1160
+	apotheosis:gem: 1185
+	apotheosis:gem_cutting_table: 1197
+	apotheosis:gem_dust: 1187
+	apotheosis:glowing_hellshelf: 1166
+	apotheosis:heart_seashelf: 1170
+	apotheosis:hellshelf: 1163
+	apotheosis:helmet_tome: 1154
+	apotheosis:inert_trident: 1182
+	apotheosis:infused_hellshelf: 1164
+	apotheosis:infused_seashelf: 1168
+	apotheosis:iron_mining_arrow: 1207
+	apotheosis:leggings_tome: 1156
+	apotheosis:library: 1176
+	apotheosis:lucky_foot: 1202
+	apotheosis:melonshelf: 1175
+	apotheosis:mythic_material: 1194
+	apotheosis:obsidian_arrow: 1204
+	apotheosis:other_tome: 1153
+	apotheosis:pearl_endshelf: 1173
+	apotheosis:pickaxe_tome: 1159
+	apotheosis:potion_charm: 1203
+	apotheosis:prismatic_web: 1152
+	apotheosis:rare_material: 1192
+	apotheosis:rectifier: 1177
+	apotheosis:rectifier_t2: 1178
+	apotheosis:rectifier_t3: 1179
+	apotheosis:reforging_table: 1195
+	apotheosis:salvaging_table: 1196
+	apotheosis:scrap_tome: 1162
+	apotheosis:seashelf: 1167
+	apotheosis:sightshelf: 1180
+	apotheosis:sightshelf_t2: 1181
+	apotheosis:sigil_of_enhancement: 1200
+	apotheosis:sigil_of_socketing: 1198
+	apotheosis:superior_sigil_of_enhancement: 1201
+	apotheosis:superior_sigil_of_socketing: 1199
+	apotheosis:uncommon_material: 1191
+	apotheosis:vial_of_expulsion: 1189
+	apotheosis:vial_of_extraction: 1188
+	apotheosis:weapon_tome: 1158
+
+[205月2023 10:18:03.390] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:menu
+	apotheosis:enchanting_table: 24
+	apotheosis:fletching: 29
+	apotheosis:gem_cutting: 28
+	apotheosis:library: 25
+	apotheosis:reforging: 26
+	apotheosis:salvage: 27
+
+[205月2023 10:18:03.390] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	apotheosis:bleeding: 35
+	apotheosis:knowledge: 34
+	apotheosis:sundering: 0
+
+[205月2023 10:18:03.390] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:potion
+	apotheosis:absorption: 46
+	apotheosis:fatigue: 52
+	apotheosis:haste: 49
+	apotheosis:knowledge: 61
+	apotheosis:long_absorption: 47
+	apotheosis:long_fatigue: 53
+	apotheosis:long_haste: 50
+	apotheosis:long_knowledge: 62
+	apotheosis:long_resistance: 44
+	apotheosis:long_sundering: 59
+	apotheosis:long_wither: 56
+	apotheosis:resistance: 43
+	apotheosis:strong_absorption: 48
+	apotheosis:strong_fatigue: 54
+	apotheosis:strong_haste: 51
+	apotheosis:strong_knowledge: 63
+	apotheosis:strong_resistance: 45
+	apotheosis:strong_sundering: 60
+	apotheosis:strong_wither: 57
+	apotheosis:sundering: 58
+	apotheosis:wither: 55
+
+[205月2023 10:18:03.390] [Render thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:recipe_serializer
+	apotheosis:add_sockets: 30
+	apotheosis:enchanting: 24
+	apotheosis:expulsion: 28
+	apotheosis:extraction: 29
+	apotheosis:fletching: 34
+	apotheosis:keep_nbt_enchanting: 25
+	apotheosis:potion_charm: 32
+	apotheosis:potion_charm_enchanting: 33
+	apotheosis:salvaging: 31
+	apotheosis:socketing: 27
+	apotheosis:spawner_modifier: 26
+	bookshelf:shaped_durability: 21
+	bookshelf:shapeless_durability: 22
+
+[205月2023 10:18:03.392] [Render thread/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Missing registry data for impl connection:
+	minecraft:command_argument_type: bookshelf:font
+	minecraft:command_argument_type: bookshelf:item_output
+	minecraft:recipe_serializer: apotheosis:add_sockets
+	minecraft:recipe_serializer: apotheosis:enchanting
+	minecraft:recipe_serializer: apotheosis:expulsion
+	minecraft:recipe_serializer: apotheosis:extraction
+	minecraft:recipe_serializer: apotheosis:fletching
+	minecraft:recipe_serializer: apotheosis:keep_nbt_enchanting
+	minecraft:recipe_serializer: apotheosis:potion_charm
+	minecraft:recipe_serializer: apotheosis:potion_charm_enchanting
+	minecraft:recipe_serializer: apotheosis:salvaging
+	minecraft:recipe_serializer: apotheosis:socketing
+	minecraft:recipe_serializer: apotheosis:spawner_modifier
+	minecraft:recipe_serializer: bookshelf:shaped_durability
+	minecraft:recipe_serializer: bookshelf:shapeless_durability
+	minecraft:item: apotheosis:beeshelf
+	minecraft:item: apotheosis:blazing_hellshelf
+	minecraft:item: apotheosis:boots_tome
+	minecraft:item: apotheosis:boss_summoner
+	minecraft:item: apotheosis:bow_tome
+	minecraft:item: apotheosis:broadhead_arrow
+	minecraft:item: apotheosis:chestplate_tome
+	minecraft:item: apotheosis:common_material
+	minecraft:item: apotheosis:crystal_seashelf
+	minecraft:item: apotheosis:diamond_mining_arrow
+	minecraft:item: apotheosis:draconic_endshelf
+	minecraft:item: apotheosis:ender_lead
+	minecraft:item: apotheosis:ender_library
+	minecraft:item: apotheosis:endshelf
+	minecraft:item: apotheosis:epic_material
+	minecraft:item: apotheosis:explosive_arrow
+	minecraft:item: apotheosis:fishing_tome
+	minecraft:item: apotheosis:gem
+	minecraft:item: apotheosis:gem_cutting_table
+	minecraft:item: apotheosis:gem_dust
+	minecraft:item: apotheosis:glowing_hellshelf
+	minecraft:item: apotheosis:heart_seashelf
+	minecraft:item: apotheosis:hellshelf
+	minecraft:item: apotheosis:helmet_tome
+	minecraft:item: apotheosis:inert_trident
+	minecraft:item: apotheosis:infused_hellshelf
+	minecraft:item: apotheosis:infused_seashelf
+	minecraft:item: apotheosis:iron_mining_arrow
+	minecraft:item: apotheosis:leggings_tome
+	minecraft:item: apotheosis:library
+	minecraft:item: apotheosis:lucky_foot
+	minecraft:item: apotheosis:melonshelf
+	minecraft:item: apotheosis:mythic_material
+	minecraft:item: apotheosis:obsidian_arrow
+	minecraft:item: apotheosis:other_tome
+	minecraft:item: apotheosis:pearl_endshelf
+	minecraft:item: apotheosis:pickaxe_tome
+	minecraft:item: apotheosis:potion_charm
+	minecraft:item: apotheosis:prismatic_web
+	minecraft:item: apotheosis:rare_material
+	minecraft:item: apotheosis:rectifier
+	minecraft:item: apotheosis:rectifier_t2
+	minecraft:item: apotheosis:rectifier_t3
+	minecraft:item: apotheosis:reforging_table
+	minecraft:item: apotheosis:salvaging_table
+	minecraft:item: apotheosis:scrap_tome
+	minecraft:item: apotheosis:seashelf
+	minecraft:item: apotheosis:sightshelf
+	minecraft:item: apotheosis:sightshelf_t2
+	minecraft:item: apotheosis:sigil_of_enhancement
+	minecraft:item: apotheosis:sigil_of_socketing
+	minecraft:item: apotheosis:superior_sigil_of_enhancement
+	minecraft:item: apotheosis:superior_sigil_of_socketing
+	minecraft:item: apotheosis:uncommon_material
+	minecraft:item: apotheosis:vial_of_expulsion
+	minecraft:item: apotheosis:vial_of_extraction
+	minecraft:item: apotheosis:weapon_tome
+	minecraft:potion: apotheosis:absorption
+	minecraft:potion: apotheosis:fatigue
+	minecraft:potion: apotheosis:haste
+	minecraft:potion: apotheosis:knowledge
+	minecraft:potion: apotheosis:long_absorption
+	minecraft:potion: apotheosis:long_fatigue
+	minecraft:potion: apotheosis:long_haste
+	minecraft:potion: apotheosis:long_knowledge
+	minecraft:potion: apotheosis:long_resistance
+	minecraft:potion: apotheosis:long_sundering
+	minecraft:potion: apotheosis:long_wither
+	minecraft:potion: apotheosis:resistance
+	minecraft:potion: apotheosis:strong_absorption
+	minecraft:potion: apotheosis:strong_fatigue
+	minecraft:potion: apotheosis:strong_haste
+	minecraft:potion: apotheosis:strong_knowledge
+	minecraft:potion: apotheosis:strong_resistance
+	minecraft:potion: apotheosis:strong_sundering
+	minecraft:potion: apotheosis:strong_wither
+	minecraft:potion: apotheosis:sundering
+	minecraft:potion: apotheosis:wither
+	minecraft:block_entity_type: apotheosis:anvil
+	minecraft:block_entity_type: apotheosis:boss_spawner
+	minecraft:block_entity_type: apotheosis:ender_library
+	minecraft:block_entity_type: apotheosis:library
+	minecraft:block_entity_type: apotheosis:reforging_table
+	minecraft:block: apotheosis:beeshelf
+	minecraft:block: apotheosis:blazing_hellshelf
+	minecraft:block: apotheosis:boss_spawner
+	minecraft:block: apotheosis:crystal_seashelf
+	minecraft:block: apotheosis:draconic_endshelf
+	minecraft:block: apotheosis:ender_library
+	minecraft:block: apotheosis:endshelf
+	minecraft:block: apotheosis:gem_cutting_table
+	minecraft:block: apotheosis:glowing_hellshelf
+	minecraft:block: apotheosis:heart_seashelf
+	minecraft:block: apotheosis:hellshelf
+	minecraft:block: apotheosis:infused_hellshelf
+	minecraft:block: apotheosis:infused_seashelf
+	minecraft:block: apotheosis:library
+	minecraft:block: apotheosis:melonshelf
+	minecraft:block: apotheosis:pearl_endshelf
+	minecraft:block: apotheosis:rectifier
+	minecraft:block: apotheosis:rectifier_t2
+	minecraft:block: apotheosis:rectifier_t3
+	minecraft:block: apotheosis:reforging_table
+	minecraft:block: apotheosis:salvaging_table
+	minecraft:block: apotheosis:seashelf
+	minecraft:block: apotheosis:sightshelf
+	minecraft:block: apotheosis:sightshelf_t2
+	minecraft:mob_effect: apotheosis:bleeding
+	minecraft:mob_effect: apotheosis:knowledge
+	minecraft:mob_effect: apotheosis:sundering
+	minecraft:menu: apotheosis:enchanting_table
+	minecraft:menu: apotheosis:fletching
+	minecraft:menu: apotheosis:gem_cutting
+	minecraft:menu: apotheosis:library
+	minecraft:menu: apotheosis:reforging
+	minecraft:menu: apotheosis:salvage
+	minecraft:enchantment: apotheosis:bane_of_illagers
+	minecraft:enchantment: apotheosis:berserkers_fury
+	minecraft:enchantment: apotheosis:capturing
+	minecraft:enchantment: apotheosis:chainsaw
+	minecraft:enchantment: apotheosis:chromatic
+	minecraft:enchantment: apotheosis:crescendo
+	minecraft:enchantment: apotheosis:earths_boon
+	minecraft:enchantment: apotheosis:endless_quiver
+	minecraft:enchantment: apotheosis:exploitation
+	minecraft:enchantment: apotheosis:growth_serum
+	minecraft:enchantment: apotheosis:icy_thorns
+	minecraft:enchantment: apotheosis:infusion
+	minecraft:enchantment: apotheosis:knowledge
+	minecraft:enchantment: apotheosis:life_mending
+	minecraft:enchantment: apotheosis:miners_fervor
+	minecraft:enchantment: apotheosis:natures_blessing
+	minecraft:enchantment: apotheosis:obliteration
+	minecraft:enchantment: apotheosis:rebounding
+	minecraft:enchantment: apotheosis:reflective
+	minecraft:enchantment: apotheosis:scavenger
+	minecraft:enchantment: apotheosis:shield_bash
+	minecraft:enchantment: apotheosis:spearfishing
+	minecraft:enchantment: apotheosis:splitting
+	minecraft:enchantment: apotheosis:stable_footing
+	minecraft:enchantment: apotheosis:tempting
+	minecraft:entity_type: apotheosis:broadhead_arrow
+	minecraft:entity_type: apotheosis:explosive_arrow
+	minecraft:entity_type: apotheosis:mining_arrow
+	minecraft:entity_type: apotheosis:obsidian_arrow
+
+[205月2023 10:18:03.392] [Netty Client IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Failed to load registry, closing connection.
+[205月2023 10:18:03.398] [Netty Client IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Connection closed, not continuing handshake
+[205月2023 10:18:08.187] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
